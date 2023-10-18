@@ -1,0 +1,63 @@
+{
+    "products": [
+      { "id": 1, 
+        "name": "Jane Eyre", 
+        "price": "599",
+        "author": "Charlotte Bronte",
+        "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSGHZxank0_ecARhZgitONgh1EWnpkrL1FfJcq4bCNPzPeE3lFz",
+        "description": "Jane Eyre is a novel by the English writer Charlotte Brontë. It was published under her pen name  on 19 October 1847 by Smith, Elder & Co. of London. The first American edition was published the following year by Harper & Brothers of New York." 
+      },
+
+      { "id": 2, 
+      "name": "Beloved", 
+      "price": "499",
+      "author": "Toni Morrison",
+      "image":"https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQYXIqNmfJpAhfqfguHTbaKdKkzkEMLQMi2igT4xeI54b_F2CYq",
+      "description": "Beloved is a 1987 novel by American novelist Toni Morrison. Set in the period after the American Civil War, the novel tells the story of a dysfunctional family of formerly enslaved people whose Cincinnati home is haunted by a malevolent spirit"
+      },
+      { "id": 3, 
+      "name": "Wuthering Heights", 
+      "price": "699",
+      "author": "Emily Bronte",
+      "image":"https://books.google.co.in/books/publisher/content?id=YZvDAgAAQBAJ&pg=PR1&img=1&zoom=3&hl=en&sig=ACfU3U0ktIvb_-EYxRVrkSa0PVLyvFGGXA&w=1280",
+      "description": "Considered lurid and shocking by mid-19th-century standards, Wuthering Heights was initially thought to be such a publishing risk that its author, Emily Brontë, was asked to pay some of the publication costs. A somber tale of consuming passions and vengeance played out against the lonely moors of northern England, the book proved to be one of the most enduring classics of English literature." 
+      },
+
+      { "id": 4, 
+      "name": "The Great Gatsby", 
+      "price": "399",
+      "author": "F. Scott Fitzgerald",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg" ,
+      "description":"The Great Gatsby is a 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, near New York City, the novel depicts first-person narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby and Gatsby's obsession to reunite with his former lover, Daisy Buchanan"
+      },
+      { "id": 5, 
+      "name": "The Catcher in the Rye", 
+      "price": "299",
+      "author": "J. D. Salinger",
+      "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsavbB1JB41qvpgD9oAiaXitJu69oinUy_JolRsSZKpMuihryK",
+      "description": "The Catcher in the Rye is an American novel by J. D. Salinger that was partially published in serial form 1945–46 before being novelized in 1951. Originally intended for adults, it is often read by adolescents for its themes of angst and alienation, and as a critique of superficiality in society." 
+      },
+      { "id": 6, 
+      "name": "Catch-22", 
+      "price": "199",
+      "author": "Joseph Heller",
+      "image":"https://books.google.co.in/books/content?id=U9V8JYt7WwoC&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U28v9sqYJFBUdpfQic9ps7uEsDifg&w=1280", 
+      "description":"Catch-22 is a satirical war novel by American author Joseph Heller. He began writing it in 1953; the novel was first published in 1961" 
+      },
+      { "id": 7, 
+      "name": "Nineteen Eighty-Four", 
+      "price": "299",
+      "author": "George Orwell",
+      "image":"https://books.google.co.in/books/publisher/content?id=AJ4REAAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U0WPHj-zYcU_ZLP2YCD9Q0CpVIjqg&w=1280",
+      "description": "Nineteen Eighty-Four is a dystopian novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime."
+      },
+      { "id": 8, 
+      "name": "Brave New World", 
+      "price": "299",
+      "image":"https://books.google.co.in/books/publisher/content?id=vXHoDwAAQBAJ&pg=PP1&img=1&zoom=3&hl=en&bul=1&sig=ACfU3U1S-HIQTGnjPs_aHTm8WAxMYWxq0Q&w=1280",
+      "description": "Brave New World is a dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932." 
+      }
+
+    ]
+
+}
